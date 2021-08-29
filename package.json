@@ -1,0 +1,32 @@
+{
+  "name": "object-dot-parser",
+  "version": "1.0.1",
+  "description": "Parse string dotted keys to nested attributes in object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "./node_modules/.bin/babel src -d lib --no-copy-ignored"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFuenTech/object-dot-parser"
+  },
+  "bugs": "https://github.com/LuisFuenTech/object-dot-parser/issues",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "object",
+    "parser"
+  ],
+  "homepage": "https://github.com/LuisFuenTech/object-dot-parser#readme",
+  "author": "[Sergio Restrepo, Luis Fuentes]",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "7.14.8",
+    "@babel/core": "7.15.0",
+    "@babel/preset-env": "7.15.0",
+    "handlebars": "^4.5.0",
+    "jest": "23.6.0"
+  }
+}
