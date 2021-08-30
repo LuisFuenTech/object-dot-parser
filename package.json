@@ -1,6 +1,6 @@
 {
   "name": "object-dot-parser",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Parse string dotted keys to nested attributes in object",
   "main": "index.js",
   "scripts": {
