@@ -10,8 +10,7 @@ This module allows you to parse objects whose attributes are strings with points
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/LuisFuenTech/object-dot-parser/blob/master/LICENSE)
 [![NodeJS](https://img.shields.io/badge/node-8.x.x-brightgreen?style=flat-square)](https://github.com/LuisFuenTech/object-dot-parser/blob/master/package.json)
 [![install size](https://packagephobia.now.sh/badge?p=object-dot-parser)](https://packagephobia.now.sh/result?p=object-dot-parser)
-
-<!-- [![npm downloads](https://img.shields.io/npm/dm/object-dot-parser.svg?style=flat-square)](http://npm-stat.com/charts.html?package=object-dot-parser) -->
+[![npm downloads](https://img.shields.io/npm/dm/object-dot-parser.svg?style=flat-square)](http://npm-stat.com/charts.html?package=object-dot-parser)
 
 # Compatibility
 
