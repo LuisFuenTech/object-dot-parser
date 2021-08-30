@@ -49,7 +49,6 @@ describe("Object Dot Parser", () => {
 
   it("Should return undefined when the param is no object or array", () => {
     const objectParsed = objectDotParser();
-    console.log({ objectParsed });
 
     expect(objectParsed).toBeUndefined();
   });
