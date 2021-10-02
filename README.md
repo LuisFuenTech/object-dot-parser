@@ -82,6 +82,9 @@ Output
 }
 ```
 
+# Contributing
+If you want to add something or fix it, please follow [this guide](https://github.com/LuisFuenTech/object-dot-parser/blob/master/CONTRIBUTING.md)
+
 # License
 
 [MIT](https://github.com/LuisFuenTech/object-dot-parser/blob/master/LICENSE)
