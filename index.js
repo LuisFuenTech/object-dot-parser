@@ -1,2 +1,2 @@
-const objectParser = require("./lib");
+const objectParser = require('./src');
 module.exports = objectParser;
